@@ -1,0 +1,192 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance of the Lords and Commons assembled in Parliament; concerning the proceedings of divers ill-affected persons and papists within the counties of Denbigh, Montgomery, Flint, Merioneth, Carnarvon and Anglesey, who have in contempt of the Parliament, entred into an hostile and dangerous association amongst themselves, for the raising and promoting of and intestine war within this Kingdom. For securing and reducing whereof, it is ordained, that the counties of Chester, Salop, Lancaster, and other adjacent counties, shall actually aid and assist one another for the preservation of their counties; and to resist, pursue, subdue, kill, slay, and put to execution of death all such persons as do or shall make any insurrection, plunder, or destroy any of His Majesties subjects in those counties. And that Sir Thomas Middleton Knight, be appointed by his Excellencie, to be Sergeant Major Generall of all the forces both of horse and foot, for the preservation of the said counties. Ordered by the Commons in Parliament, that this ordinance be forthwith printed and published: H: Elsynge, Cler. Parl. D. Com.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83041</idno>
+            <idno type="STC">Wing E1828</idno>
+            <idno type="STC">Thomason E59_23</idno>
+            <idno type="STC">ESTC R6464</idno>
+            <idno type="EEBO-CITATION">99872999</idno>
+            <idno type="PROQUEST">99872999</idno>
+            <idno type="VID">155298</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83041)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155298)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 10:E59[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance of the Lords and Commons assembled in Parliament; concerning the proceedings of divers ill-affected persons and papists within the counties of Denbigh, Montgomery, Flint, Merioneth, Carnarvon and Anglesey, who have in contempt of the Parliament, entred into an hostile and dangerous association amongst themselves, for the raising and promoting of and intestine war within this Kingdom. For securing and reducing whereof, it is ordained, that the counties of Chester, Salop, Lancaster, and other adjacent counties, shall actually aid and assist one another for the preservation of their counties; and to resist, pursue, subdue, kill, slay, and put to execution of death all such persons as do or shall make any insurrection, plunder, or destroy any of His Majesties subjects in those counties. And that Sir Thomas Middleton Knight, be appointed by his Excellencie, to be Sergeant Major Generall of all the forces both of horse and foot, for the preservation of the said counties. Ordered by the Commons in Parliament, that this ordinance be forthwith printed and published: H: Elsynge, Cler. Parl. D. Com.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edw: Husbands,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>Iuly 11. 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Middleton, Thomas, --  Sir, 1586-1666 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term>Wales --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155298:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 106 -->
+            <p>AN ORDINANCE OF THE <hi>LORDS</hi> and <hi>COMMONS</hi> Aſſembled in PARLIAMENT; CONCERNING The proceedings of divers ill-affected per<g ref="char:EOLhyphen"/>ſons and Papiſts within the counties of <hi>Denbigh, Mountgomery, Flint, Merioneth, Carnarvon</hi> and <hi>Angleſey,</hi> who have in contempt of the Parliament, entred into an hoſtile and dangerous Aſſociation amongſt themſelves, for the raiſing and pro<g ref="char:EOLhyphen"/>moting of an Inteſtine War within this Kingdom.</p>
+            <p>For ſecuring and reducing whereof, it is Or<g ref="char:EOLhyphen"/>dained, That the counties of <hi>Cheſter, Salop, Lancaſter,</hi> and other adjacent counties, ſhall actually aid and aſſiſt one another for the preſervation of their counties; And to Reſiſt, Purſue, Sub<g ref="char:EOLhyphen"/>due, Kill, Slay, and put to execution of Death all ſuch perſons as do or ſhall make any Inſurrection, Plunder, or Deſtroy any of His Majeſties Subjects in thoſe counties.</p>
+            <p>AND That Sir THOMAS MIDDLETON Knight, be appointed by his Excellencie, to be Sergeant Major Generall of all the Forces both of Horſe and Foot, for the preſervation of the ſaid Counties.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>ORdered by the Commons in Parliament, That this Ordinance be forthwith printed and publiſhed:</p>
+                        <closer>
+                           <signed>H: Elſynge, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Printed for <hi>Edw: Husbands.</hi> Iuly 11. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:155298:2"/>
+            <!-- PDF PAGE 107 -->
+            <pb n="3" facs="tcp:155298:2"/>
+            <!-- PDF PAGE 107 -->
+            <head>An Ordinance of the <hi>Lords</hi> and <hi>Com<g ref="char:EOLhyphen"/>mons</hi> aſſembled in Parliament, Concerning divers ill-affected perſons and Papiſts within the Counties of <hi>Denbigh, Mountgomery, Flint, Me<g ref="char:EOLhyphen"/>rioneth, Carnarvon,</hi> and <hi>Angleſey,</hi> &amp;c.</head>
+            <opener>
+               <dateline>
+                  <date>Die Lunae, <hi>12.</hi> Iunii, <hi>1643.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>VVHereas the Lords and Commons now aſſembled in Parliament, have received credible Information that very many Papiſts, notorious Delinquents, and other ill-affected perſons inhabiting within the ſeveral counties of <hi>Denigb, Mount<g ref="char:EOLhyphen"/>gomery,</hi> and <hi>Flint,</hi> in the Dominion of Wales, have in meer oppo<g ref="char:EOLhyphen"/>ſition to, and contempt of the power and authority of this pre<g ref="char:EOLhyphen"/>ſent Parliament, entered into an hoſtile and dangerous Aſſocia<g ref="char:EOLhyphen"/>tion amongſt themſelves, and with many other perſons of like condition with them, inhabiting in other adjacent counties, for the raiſing and promoting of an inteſtine and civill War within this Kingdom: and in purſuance thereof, have (contrary to their allegiance) levyed, and do daily levy great forces both of horſe and foot within their ſaid ſeverall counties, compelling the com<g ref="char:EOLhyphen"/>mon people by Impreſt, Impriſonment, and other violent cour<g ref="char:EOLhyphen"/>ſes, to enter into acts of hoſtility and rebellion with them, and inforcing the Inhabitants of the ſaid counties, by illegall, unjuſt, and inſupportable taxations, to ſupport and maintaine them in their ſaid Rebellion and Force, contrary not only to the ancient known laws of this Kingdom; but alſo to ſeverall Acts made and conſented unto by his Majeſty this preſent Parliament: and mul<g ref="char:EOLhyphen"/>titudes of his Majeſties good proteſtant ſubjects have been, and daily are robbed of all their eſtates, impriſoned, ruined, and de<g ref="char:EOLhyphen"/>ſtroyed
+<pb n="4" facs="tcp:155298:3"/>
+               <!-- PDF PAGE 108 -->by them; Which proceedings of the ſaid perſons, doe tend not only to the diſturbance of the peace, and tranquility of this Kingdom; but alſo to the ſubverſion of the fundamentall Government thereof, and of the proteſtant religion therein pro<g ref="char:EOLhyphen"/>feſſed, in caſe they ſhould receive into their ayd and aſſiſtance a<g ref="char:EOLhyphen"/>ny conſiderable number of the Iriſh Rebells, which is not impro<g ref="char:EOLhyphen"/>bable; It being the ayme (as it is probable) of all the papiſts now in armes in this Kingdome, and in the Kingdom of <hi>Ireland,</hi> to free themſelves from the Laws eſtabliſhed againſt them, and the cruel and bloudy outrages committed by them upon the pro<g ref="char:EOLhyphen"/>teſtants of both Kingdomes, (in ruining whole families, conſu<g ref="char:EOLhyphen"/>ming by fire whole townes, and uſing his Majeſties Name for their authority to countenance their treaſonable practiſes) ma<g ref="char:EOLhyphen"/>king it evident to all men, that the ſaid Rebellion and civill Warre in both Kingdomes, have ſprang from the ſame Roote, and muſt needs live and dye together; The ſaid Lords and Com<g ref="char:EOLhyphen"/>mons taking the ſame into their ſerious conſiderations, doe hold it neceſſary (for the more ſpeedy ſuppreſſing of the ſaid Rebel<g ref="char:EOLhyphen"/>lion, and reducing of the ſaid Papiſts, Delinquents, and ill af<g ref="char:EOLhyphen"/>fected perſons to their due obedience) that the ſaid ſeverall counties of <hi>Denbigh, Mountgomery, Flint, Merioneth, Carnar<g ref="char:EOLhyphen"/>von,</hi> and <hi>Angleſey,</hi> and the adjacent counties, be with all con<g ref="char:EOLhyphen"/>venient ſpeed ſecured, aſwell from inſurrection, as forraign In<g ref="char:EOLhyphen"/>vaſion, being ſeated on the Iriſh Coaſts.</p>
+            <p>Be it therefore ordayned by the Lords and Commons in Par<g ref="char:EOLhyphen"/>liament aſſembled, That the Lord-Lieutenants for the ſaid ſeve<g ref="char:EOLhyphen"/>rall counties, and all Colonells, Lieutenant-colonells, Serjeant-Majors, Captaines, and other officers, and all other perſons well affected to the proteſtant Religion, and the peace of the King<g ref="char:EOLhyphen"/>dome, inhabiting within the ſaid ſeverall counties, ſhall, and lawfully may aſſociate themſelves together; and likewiſe enter into mutuall aſſociation to, and with the ſaid ſeverall Lord-Lieu<g ref="char:EOLhyphen"/>tenants, Committee, or Committees of Parliament, Colonels, Lieutenant Colonells, Sergeant Majors, Captaines, and other Officers, and all other perſon or perſons inhabiting within the ſeverall counties of <hi>Cheſter,</hi> the county of the city of <hi>Cheſter,</hi> and the counties of <hi>Salop</hi> and <hi>Lancaſter,</hi> and any other adja<g ref="char:EOLhyphen"/>cent county or counties, and actually ayde, ſuccour, and aſſiſt
+<pb n="5" facs="tcp:155298:3"/>
+               <!-- PDF PAGE 108 -->one another, in the mutuall preſervation and defence of them<g ref="char:EOLhyphen"/>ſelves, and of the peace of all the ſaid counties, from all rapine, plundering, and ſpoyling by the ſaid Delinquents, papiſts, and other the ſaid ill-affected perſons; And that the ſaid Lord-Lieutenants, Committee, or Committees of Parliament, Colo<g ref="char:EOLhyphen"/>nells, Lieutenant-colonells, Serjeant Majors, Captaines, and o<g ref="char:EOLhyphen"/>ther Officers, ſhall have have power to raiſe forces of horſe and foot, and to lead them into any place, or places, which ſhall be fitting and convenient, either within, or out of all, or any of the ſaid ſeverall counties: And to give battle to, and to fight with all ſuch forces as are, or ſhall be raiſed againſt the Parliament, and againſt all other forces raiſed<g ref="char:punc">▪</g> or to be raiſed without autho<g ref="char:EOLhyphen"/>rity and conſent of both Houſes of Parliament; and likewiſe a<g ref="char:EOLhyphen"/>gainſt all ſuch perſons as do, or ſhall make any inſurrection, or otherwiſe plunder or deſtroy any of his Majeſties good ſubjects, and them to invade, reſiſt, ſuppreſſe, ſubdue, purſue, kill, ſlay, and put to execution of death, and by all meanes to deſtroy, as enemies to this Kingdom: and alſo to performe all other things needfull for the preſervation of the ſafety and peace of all the ſaid ſeverall counties, cities, and parts adjacent; obſerving from time to time ſuch other directions and commands, as they ſhall receive from both Houſes of Parliament, or from his Excel<g ref="char:EOLhyphen"/>lency the Earle of ESSEX Lord Generall, And that all the ſayed perſons and other the Inhabitants of the afore<g ref="char:EOLhyphen"/>ſayed ſeverall Counties, that ſhall enter into any ſuch ſaid Aſſociation, by vertue of this preſent Ordinance, or doe any other act or acts in obedience to, and purſu<g ref="char:EOLhyphen"/>ance of this, or any other Ordinance of the two Houſes of Parliament, ſhall for his, and their ſo doings, be ſaved, de<g ref="char:EOLhyphen"/>fended, and kept harmleſſe by the power and authority of Par<g ref="char:EOLhyphen"/>liament. And the ſaid Lords and Commons taking likewiſe in<g ref="char:EOLhyphen"/>to their ſerious conſiderations, aſwell the danger this whole Kingdom is likely to fall into, if any of the Iriſh Rebels, or other forreign Forces ſhould land in any of the aforeſaid ſe<g ref="char:EOLhyphen"/>verall Counties, being Maritine, and bordering on the Iriſh Seas, and ſhould joyn with the ſaid Delinquents, papiſts, and other the ſaid ill-affected perſons, now already in arms againſt the Parliament; as alſo the neceſsity of appointing a Com<g ref="char:EOLhyphen"/>mander
+<pb facs="tcp:155298:4"/>
+               <!-- PDF PAGE 109 -->
+               <pb n="3" facs="tcp:155298:4"/>
+               <!-- PDF PAGE 109 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:155298:5"/>
+               <!-- PDF PAGE 110 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:155298:5"/>
+               <!-- PDF PAGE 110 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="6" facs="tcp:155298:6"/>
+               <!-- PDF PAGE 111 -->of the Forces which ſhall be raiſed within the ſaid ſeverall Counties of <hi>Denbigh, Mountgomery, Flint, Merioneth, Carnarvon,</hi> and <hi>Angleſey,</hi> or in any of them for the aforeſaid ſervice, do Ordain, That the ſaid Earl of <hi>Eſſex,</hi> the Lord Gene<g ref="char:EOLhyphen"/>rall, ſhall be deſired to grant Commſſion unto Sir <hi>Thomas Mid<g ref="char:EOLhyphen"/>dleton</hi> Knight, being one of the Members of Parliament, to command in chief, as Sergeant Major Generall of all the For<g ref="char:EOLhyphen"/>ces both of Horſe and Foot, raiſed, or to be raiſed in all or any of the ſaid ſeverall Counties of <hi>Denbigh, Mountgomery, Flint, Merioneth, Carnarvon</hi> and <hi>Angleſey,</hi> or in any of them for the ſervice aforeſaid; and to have power to lead, com<g ref="char:EOLhyphen"/>mand, and carry the ſame to ſuch place and places, within the ſaid ſeverall Counties or without, as he ſhall think fit and neceſſary, for the mutuall defence, aſſiſtance, and aid of all the ſaid ſeverall Counties; and for the preſervation of the peace of them or any of them; and likewiſe to give the ſame Order and Inſtructions in his ſaid Excellencies abſence, for Regulating of the Souldiers, which are or ſhall be under his Command, as his Excellencie hath given to his army; and to uſe Martiall Law to compell obedience thereunto, as occaſion ſhall require; and alſo to make, nominate, and appoint all other Commanders under him, for the levying, raiſing, con<g ref="char:EOLhyphen"/>ducting, and leading of the ſaid Forces, as he ſhall from time to time think fitting; and to raiſe Souldiers in all, or any of the ſaid ſeverall Counties for the aforeſaid ſervice.</p>
+            <p>And whereas the Inhabitants of the ſaid ſeverall Counties of <hi>Denbigh, Mountgomery, Flint, Merioneth, Carnarvon</hi> and <hi>Angleſey,</hi> are now wholly ſubjected to the power and Tyran<g ref="char:EOLhyphen"/>nie of the Commiſſioners of Array, and others of the ſaid Delinquents, by reaſon whereof, no Commiſſioners have been named for the putting in execution of any of the Ordinances of Parliament, in any of the ſaid Counties, (the well-affected in thoſe parts being overawed.</p>
+            <p>Be it therefore further Ordained, That the ſaid Sir <hi>Thomas Middleton</hi> ſhall have full power and authority, and is hereby authoriſed, to name and appoint Commiſſioners, Soliciters, and Agents, for the putting in execution the Ordinance for the ſeizing and ſequeſtring of the Eſtates, aſwell reall as perſonall,
+<pb n="7" facs="tcp:155298:6"/>
+               <!-- PDF PAGE 111 -->of certain notorious Delinquents, in the ſaid ſeverall Coun<g ref="char:EOLhyphen"/>ties of <hi>Denbigh, Mountgomery, Flint, Merioneth, Carnarvon,</hi> and <hi>Angleſey,</hi> and every of them; and to require, and take accompt or accompts from time to time, of ſuch ſaid Commiſ<g ref="char:EOLhyphen"/>ſioners, Soliciters, or Agents, of their and every of their do<g ref="char:EOLhyphen"/>ings and proceedings therein; and to receive into his charge and cuſtody all ſuch ſums of Monies, Horſes, Cattle, Plate, Goods, and other things whatſoever which ſhall be ſeized and ſequeſtred, in all or any of the ſaid laſt mentioned ſeverall Counties, by vertue of the ſaid Ordinance of Sequeſtration; and the ſame to detain and keep for the publique ſervice and imployment of the Parliament and Kingdom, rendring an ac<g ref="char:EOLhyphen"/>compt thereof to the two Houſes of Parliament only, or to ſuch perſons as they ſhall appoint; and to receive the ſubmiſ<g ref="char:EOLhyphen"/>ſion of ſuch perſons inhabiting within the ſaid ſeverall Coun<g ref="char:EOLhyphen"/>ties or any of them, as ſhall upon due ſummons come in, and yeeld obedience to the power and authority of the two Hou<g ref="char:EOLhyphen"/>ſes of Parliament, and willingly aid and aſſiſt the ſaid Sir <hi>Thomas Middleton</hi> in the ſaid ſervice; and to forbear to put the ſaid Ordinance of ſequeſtration in execution againſt the ſaid perſons, untill the further pleaſure of the two Houſes of Parliament be ſignified therein.</p>
+            <p>And be it further ordeyned, that the ſaid Sir <hi>Thomas Middle<g ref="char:EOLhyphen"/>ton,</hi> ſhall have full power and authority, and hereby is authori<g ref="char:EOLhyphen"/>ſed to impoſe, and ſay ſuch aſſeſſments and taxes upon the ſaid ſeverall counties of <hi>Denbigh, Mountgomery, Flint, Merioneth, Carnarvon,</hi> and <hi>Angleſey,</hi> for the maintenance of the forces ac<g ref="char:EOLhyphen"/>cording to the ſeverall Ordinances for the levying of money, which ſhall be raiſed for the preſervation of the peace of the ſaid counties, and reducing of the ſaid papiſts and Delinquents to their due obediences, to the power and authority of Parli<g ref="char:EOLhyphen"/>ament; and to cauſe the ſame by diſtreſſe, or otherwiſe, to be levyed upon the Inhabitants of the ſaid counties accordingly, Rendring an accompt thereof to the two Houſes of Parliament: and if any perſon or perſons ſo aſſeſſed, or taxed, ſhall refuſe to pay his, or their aſſeſſment, or convey away his, or their goods, or other perſonall eſtate, ſo as the ſummes of moneys ſo aſſeſſ'd or taxed, cannot be levyed according to this Ordinance, Then
+<pb n="8" facs="tcp:155298:7"/>
+               <!-- PDF PAGE 112 -->the ſaid Sir <hi>Thomas Middleton</hi> ſhall have power, and is hereby authoriſed by himſelfe, or ſuch other perſons as he ſhall appoint, to ſeize, and ſequeſter, the eſtates, both reall, and perſonall, of all and every ſuch perſon and perſons as ſhal ſo refuſe to pay his, or their aſſeſſments, or ſhall convey away, or obſcure his, or their perſonall eſtates, or any part thereof as aforeſaid: ſo that the ſame cannot be found or met with, whereon to make diſtreſſe, as being perſons ill-affected to the common-wealth, and refractory and diſobedient to the power and authority of Parliament, and to detaine, and keep the ſame for the publick ſervice of the Parliament and Kingdome; Rendring an ac<g ref="char:EOLhyphen"/>compt thereof to the two Houſes of <hi>Parliament.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>ORdered by the Commons aſſembled in Parliament, That this Ordinance be forthwith printed and publiſhed.</p>
+            <closer>
+               <signed>H: Elſynge, Cler. Parl. D. Com.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
